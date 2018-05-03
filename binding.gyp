@@ -15,9 +15,9 @@
 						"cflags_cc!": [ "-fno-exceptions" ]
 					},
 					'OS == "mac"', {
-					    "xcode_settings": {
-					        "GCC_ENABLE_CPP_EXCEPTIONS": "YES"
-					    }
+						"xcode_settings": {
+							"GCC_ENABLE_CPP_EXCEPTIONS": "YES"
+						}
 					}
 				]
 			]
